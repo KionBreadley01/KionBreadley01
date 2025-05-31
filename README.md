@@ -7,6 +7,7 @@
 - 🔭 Actualmente trabajando en el proyecto: [Sonitus](https://github.com/KionBreadley01/Sonitus)
 - 💬 Pregúntame sobre: **React, Vue, Python**
 - 📫 Contáctame: **juansanchezjuan125@gmail.com**
+-    Portafolio de trabajo [Juan Manuel](https://github.com/KionBreadley01/Portafolio-JuanManuel.io.git)
 - ⚡ Dato curioso: *Soy gracioso y estoy deprimido, lo canalizo con humor. (Funciona mejor de lo que crees).*
 
 ---
