@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy KionBreadley01</h1>
+<h1 align="center">Hola 👋, soy Juan Manuel Hernandez Sanchez (KionBreadley01)</h1>
 <h3 align="center">Desarrollador Full Stack apasionado por la tecnología, el diseño y el humor inteligente desde México.</h3>
 
 ---
